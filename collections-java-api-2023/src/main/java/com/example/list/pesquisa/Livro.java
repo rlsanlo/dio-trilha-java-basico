@@ -1,4 +1,4 @@
-package com.example.pesquisa;
+package com.example.list.pesquisa;
 
 public class Livro {
     private String titulo;

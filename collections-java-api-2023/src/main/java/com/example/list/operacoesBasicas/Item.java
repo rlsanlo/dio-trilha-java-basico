@@ -1,4 +1,4 @@
-package com.example.operacoesBasicas;
+package com.example.list.operacoesBasicas;
 
 public class Item {
     private String nome;
